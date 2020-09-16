@@ -37,6 +37,17 @@ const studentsArray= [
     "academicinterests": "Ideological currents within martial arts narratives; military history in pre-historical Japan; physiology of spirit possession."
   },
   {
+    "firstName": "Kana",
+    "lastName": "Hashimoto",
+    "nickName": "",
+    "privateName": false,
+    "picture": "",
+    "privatePicture": true,
+    "privateGithub": true,
+    "superpower": "Can hyperfocus but only at inopportune times",
+    "academicinterests": "What the daily lives of common people were like in the past"
+  },
+  {
     "firstName": "Miles",
     "lastName": "Morales",
     "nickName": "Spidey",
